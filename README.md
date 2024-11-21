@@ -24,6 +24,26 @@ Here's a professional and engaging README file for your GitHub or portfolio:
 - **Okta** (SSO, MFA, Access Gateway)  
 
 ---
+Here’s a concise version of the **GitHub README**:
+
+---
+
+# Data Entry Volunteer  
+**Sri Chaitanya Schools, Hyderabad, India**  
+**[January 2023 – April 2023]**
+
+## Overview  
+As a Data Entry Volunteer, I contributed to improving administrative efficiency by managing employee data in Microsoft Excel.  
+
+## Key Contributions  
+- Entered and maintained employee details (names, salaries, emails, phone numbers).  
+- Ensured data accuracy and streamlined organization for easy retrieval.  
+- Improved efficiency by optimizing data entry processes.  
+
+## Skills & Tools  
+- **Microsoft Excel** for data entry and organization.  
+- **Data Cleaning & Organization** to ensure completeness and accuracy. 
+---
 
 ## 📜 Certifications  
 
