@@ -21,10 +21,10 @@ Here's a professional and engaging README file for your GitHub or portfolio:
 - **MySQL**  
 
 ### Identity and Access Management (IAM):  
-- **Okta** (SSO, MFA, Access Gateway)  
-
----
-Here’s a concise version of the **GitHub README**:
+- **Okta** (SSO, MFA, Access Gateway)
+  
+### Tools and Technologies:
+- **MicrosoftExcel**, **GoogleSheets**
 
 ---
 
@@ -39,10 +39,6 @@ As a Data Entry Volunteer, I contributed to improving administrative efficiency 
 - Entered and maintained employee details (names, salaries, emails, phone numbers).  
 - Ensured data accuracy and streamlined organization for easy retrieval.  
 - Improved efficiency by optimizing data entry processes.  
-
-## Skills & Tools  
-- **Microsoft Excel** for data entry and organization.  
-- **Data Cleaning & Organization** to ensure completeness and accuracy. 
 ---
 
 ## 📜 Certifications  
